@@ -1,5 +1,5 @@
 # SQL & PowerBI Examples
-Examples of SQL code & PowerBI dashboarding using fictional healthcare data from [kaggle] (https://www.kaggle.com/datasets/prasad22/healthcare-dataset) with some extra randomisation of values to help create a unique dataset.
+Examples of SQL code & PowerBI dashboarding using fictional healthcare data from [kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) with some extra randomisation of values to help create a unique dataset.
 
 A SQLite database was created using the following [csv files](example_healthcare_data) in which the [linked queries](health_care_kaggle_queries.sql) were run to clean, and explore the data.
 
