@@ -1,13 +1,10 @@
--- clean patient names 
+-- Clean patient names 
 UPDATE demographics
 SET name = UPPER(name) -- change to upper case
 
 UPDATE demographics
 SET name = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(name, 'MR. ', ''),'MRS. ', ''),'DR. ',''),'MS. ','') 
 ,'MISS ','') -- removed all instances of MR, MRS, DR, MS, MISS
-
-UPDATE admission_details 
-SET billing_amount = REPLACE(billing_amount,"-","")
 
 -- Most common blood types by gender
 
