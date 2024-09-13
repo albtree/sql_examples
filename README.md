@@ -1,7 +1,7 @@
 # SQL & PowerBI Examples
 Examples of SQL code & PowerBI dashboarding using fictional healthcare data from: https://www.kaggle.com/datasets/prasad22/healthcare-dataset with some extra randomisation of values.
 
-[SQL example here](health_care_kaggle_queries.sql)
+A SQLite database was created using the following [csv files] in which the [linked queries](health_care_kaggle_queries.sql) were run to clean, and explore the data.
 
 Below is an example of a PowerBI Dashboard I created using the same dataset for the fictional GitHub Healthcare Network. Filters are present through the use of slicers on each page of some common questions stakeholders may be interested in.
 A PDF with further charts from this report are [located here](github_healthcare_dashboard_example.pdf)
