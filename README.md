@@ -5,5 +5,5 @@ A SQLite database was created using the following [csv files](example_healthcare
 
 The same data was then exported to PowerBI. Below is an example of a PowerBI Dashboard I created using aforementioned data. Filters are present through the use of slicers on each page of some common questions stakeholders may be interested in.
 A PDF with further charts from this report are [located here](github_healthcare_dashboard_example.pdf)
-![image](https://github.com/user-attachments/assets/096adaa9-7be5-4393-92d2-b7b6f95afc6b)
+![image](https://github.com/user-attachments/assets/096adaa9-7be5-4393-92d2-b7b6f95afc6b).
 
